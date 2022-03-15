@@ -43,7 +43,7 @@
             </select>
         </div>
         <div class="d-grid gap-2 d-md-block">
-            <button type="submit" class="btn btn-primary">Delete</button>
+            <button type="submit" class="btn btn-danger">Delete</button>
             <a class="btn btn-secondary" href="/products">Back</a>
         </div>
     </form>
